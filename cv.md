@@ -15,3 +15,5 @@
 
 * Russian - native, English - B1
 * HTML, CSS, Figma, Jira
+
+-----
